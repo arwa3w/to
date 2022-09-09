@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>total</title>
+</head>
+<body style=" background:#80ccff ">
+<p><b>Life</b> is to wake up and start your day with optimism and work, <br/>
+meet people you love and help you on the hardships of life,<br/>
+ and also meet people hate them and patience for them to receive the great reward.</p>
+<video src="po.mp4" controls ></video>
+<br/>
+<img src="kh.jpg" style=" height:500px"/>
+<img src="oi.jpg" style="width:350px"/>
+
+<table border="1" style="width:300px; background:#006bb3">
+<thead>
+<tr>
+<th>الصلاه</th>
+<th>الصقحه</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>الفجر</td>
+<td>الاولي</td>
+</tr>
+<tr>
+<td>الظهر</td>
+<td>الثانيه</td>
+</tr>
+<tr>
+<td>العصر</td>
+<td>الثالثه</td>
+</tr>
+<tr>
+<td>المغرب</td>
+<td>الرابعه</td>
+</tr>
+<tr>
+<td>العشاء</td>
+<td>الخامسه</td>
+</tr>
+</tbody>
+<tfoot>
+<tr>
+<td colspan="2"> تنظيم الصلاه وحفظ المصحف الكريم</td>
+</tr>
+</tfoot>
+</table>
+<h2>if you need any help, fill aut the form </h2>
+<form style=" width:400px; color:#ffffff;">
+<br/>
+<label>UserName</label>
+<input type="UserName" readonly  />
+<br/>
+<br/>
+<label>PhoneNamber</label>
+<input type="PhoneNamber" maxlength="11"  />
+<br/>
+<br/>
+<label>address</label>
+<input type="address"    />
+<br/>
+<br/>
+<label>E-mail</label>
+<input type="E-mail"  />
+<br/>
+<br/>
+<textarea name="" id="" cols="50" rows="30"></textarea>
+<br/>
+
+
+
+<button>submit</button><br/>
+</form>
+</body>
+</html>
